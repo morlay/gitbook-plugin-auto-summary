@@ -1,0 +1,12 @@
+{
+  "name": "gitbook-plugin-auto-summary",
+  "version": "0.0.0",
+  "engines": {
+    "gitbook": "*"
+  },
+  "dependencies": {
+    "glob": "7.1.x",
+    "lodash": "4.17.4",
+    "marked": "0.3.x"
+  }
+}
